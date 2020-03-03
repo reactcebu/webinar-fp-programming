@@ -1,4 +1,4 @@
-# Dillinger
+# Javascript Functional Programming Webinar
 
 File assets for the Javascript Functional Programming webinar.
 
